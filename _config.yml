@@ -1,0 +1,19 @@
+title: Rohan Ahluwalia
+url: "https://rohan-ahluwalia.github.io"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: ""
+ - name: "Resume"
+   link: "RohanAhluwalia.pdf"
+ - name: "Contact"
+   link: "contact"
