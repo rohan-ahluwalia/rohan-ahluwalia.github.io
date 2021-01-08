@@ -15,5 +15,7 @@ nav:
    link: ""
  - name: "Resume"
    link: "RohanAhluwalia.pdf"
+ - name: "Github"
+   link: "https://github.com/rohan-ahluwalia"
  - name: "Contact"
    link: "contact"
