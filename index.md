@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="download.png">
+<img class="profile-picture" src="Ahluwalia,Rohan.png">
 
 Hi! I'm a first-year student pursuing a B.S. in Computer Science from Yale Univeristy. I'm the founder of PF Glucose, a startup that is looking to develop a non-invasive glucose monitor to eliminate the need for fingerstick measurements. 
 
