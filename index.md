@@ -29,6 +29,11 @@ Award | Year
 [5] HM in Acoustical Society of America (ISEF) | May 2018
 [6] First Tech Challenge World Championship Finalist | Mar 2017
 
+## Media and Television
+
+1. Baseball-playing teen seeks cure for Juvenile Diabetes [KOIN6 Link](https://www.youtube.com/watch?v=-zZkqQtdCe4)
+2. Portland teen heads to D.C. to fight for diabetes funding [KATU Link](https://katu.com/news/local/portland-teen-heads-to-dc-to-fight-for-diabetes-funding)
+
 ## Projects
 
 **• A Novel Optical Diagnostic Method for Detection of Blood Glucose using Reverse Iontophoresis and Personalized Nueral Networks.** Diabetes is a chronic condition that requires constant monitoring of blood glucose and external administration of insulin. People with diabetes monitor their blood glucose by an invasive method of point-stick finger measurements with blood draws which is painful, expensive and inconvenient. The goal of this project was to develop a low-cost, portable near-infrared device that will detect blood glucose in a non-invasive manner. This device uses near-infrared light for detection of glucose concentration, reverse iontophoresis for glucose modulation, and neural networks for a personalized algorithm. [Abstract](https://abstracts.societyforscience.org/Home/FullAbstract?Category=Any%20Category&Finalist=ahluwalia&AllAbstracts=False&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=17233)
