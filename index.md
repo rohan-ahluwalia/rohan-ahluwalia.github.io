@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="Ahluwalia,Rohan.png">
 
-Hi! I'm a first-year student pursuing a B.S. in Computer Science from Yale Univeristy. I'm the founder of PF Glucose, a startup that is looking to develop a non-invasive glucose monitor to eliminate the need for fingerstick measurements. 
+Hi! I'm a second-year student pursuing a B.S./M.S. in Computer Science from Yale Univeristy. 
 
 At Yale, I'm currently doing research with Dr. Jason Liu in the [Gerstein Lab](http://www.gersteinlab.org/) on deep learning to understand high-order genomic interactions. I'm also involved in Yale Launch, Yale Helix, Yale Computer Society, and Yale Entrepreneurial Society working to develop my startup, websites, and increase opportunities for students on campus. 
 
@@ -16,7 +16,8 @@ I am primarily interested in developing machine learning models and applying the
 
 ## Publications
 
-1. Ahluwalia,R., 2019. A Real-Time Detection System using Advanced Imaging Techniques to Diagnose Lipohypertrophy in People with Insulin Dependent Diabetes [JOURNY](https://issuu.com/journys7/docs/10.2/24)
+1. Liu J, Spakowicz DJ, Ash GI, Hoyd R, Ahluwalia R, et al. (2021) Bayesian structural time series for biomedical sensor data: A flexible modeling framework for evaluating interventions. PLOS Computational Biology 17(8): e1009303. [PLOS](https://doi.org/10.1371/journal.pcbi.1009303)
+2. Ahluwalia,R., 2019. A Real-Time Detection System using Advanced Imaging Techniques to Diagnose Lipohypertrophy in People with Insulin Dependent Diabetes [JOURNY](https://issuu.com/journys7/docs/10.2/24)
 
 ## Honors and Awards 
 
